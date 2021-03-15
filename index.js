@@ -4,7 +4,7 @@ client.on('ready', () => {
 client.request('SET_ACTIVITY', {
 pid: process.pid,
 activity : {
-details : "Play CRS",
+details : "Coastial Railway Sim",
 assets : {
     large_image : "crs",
     large_text : "Play Today!",
