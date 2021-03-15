@@ -1,31 +1,15 @@
-# RichPresence
-A nice cool Rich Presence with two buttons courtesy of Flampt#4460 with installation instructions for all os'es
+# Coastial Railway Simulator Official Discord Rich Presence!
 
-# Requirments
-- Must have discord application
-- Must have downloaded code
-- Should know how to use the developer portal and should upload images as files and their names in index.js
-- Should have an app with the name of the rich presence and the picture
-- Everything else is self explanitory
+## How to install
+1. [Install nodejs](https://nodejs.org/en/)
+2. [Install git](https://git-scm.com/downloads)
+3. Open your command prompt and run: `git clone https://github.com/AleanaA/Easy-Rich-Presence.git`
 
+## Running The Rich Rich-Presence
+You have to manually run the rich presence. It will not start when you join the game unless you have [JiveOff's](https://github.com/JiveOff) RoPresence
+1. Change directory to where you installed the rich presence to. cd changes directory and ls lists all the files in that directory
+2. run `node index.js`
+3. Leave it running. To stop running the rich presence press control C.
 
-# Linux Install Inscturions with sudo apt
-- sudo apt-get install pip3
-- pip3 install npm
-- npm install node
-- change directory to where you installed this code using CD and LS
-- node index.js
-- Done
-
-
-# MacOS install Instructions BigSur / Catilina
-- sudo apt-get install pip3
-- pip3 install npm
-- npm install node
-- change directory to where you installed this code using CD and LS
-- node index.js
-- Done
-
-
-# Windows 10 install Instructions
-- Unsure about windows consulting with freinds / people who have windows computers
+## Support
+dm SamPilot318#7421 on Disocrd.
